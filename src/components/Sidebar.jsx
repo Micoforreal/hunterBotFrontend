@@ -2,7 +2,7 @@ import React from 'react';
 export function Sidebar() {
   return <div className="w-64 border-r border-gray-200 flex flex-col">
       <div className="p-6">
-        <h1 className="text-2xl font-bold">HUNTER</h1>
+        <h1 className="text-2xl font-extrabold text-black" >HUNTER</h1>
       </div>
       <div className="flex flex-col flex-grow px-4 py-2">
         <button className="bg-purple-400 text-white py-3 px-4 rounded-md mb-2 text-left font-medium">

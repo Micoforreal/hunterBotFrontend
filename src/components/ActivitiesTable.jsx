@@ -25,7 +25,7 @@ const activities = [{
   company: 'Mystery Droplet'
 }];
 export function ActivitiesTable() {
-  return <div className="bg-gray-200 rounded-lg overflow-hidden">
+  return <div className="bg-gray-200 rounded-lg overflow-hidden text-black">
       <table className="w-full">
         <thead>
           <tr className="border-b border-gray-300">
